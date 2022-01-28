@@ -1,0 +1,23 @@
+body {
+  background-color: #4fbdba;
+}
+h1 {
+  color: #072227;
+  font-style: italic;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+hr {
+  border-top: #072227;
+  border-style: dotted none none none;
+  border-width: 5px;
+}
+table {
+  border-spacing: 10px;
+}
+p {
+  font-family: "Courier New", Courier, monospace;
+}
